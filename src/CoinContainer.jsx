@@ -6,7 +6,7 @@ class CoinContainer extends Component {
   static defaultProps = {
     coins: [
       { side: "heads", imgSrc: "https://tinyurl.com/react-coin-heads-jpg" },
-      { side: "tails", imgSrc: "https://tinyurl.com/react-coin-tails-jpg" }
+      { side: "tails", imgSrc: "https://images-na.ssl-images-amazon.com/images/I/51NyMaKLydL._AC_.jpg" }
     ]
   };
   constructor(props) {
